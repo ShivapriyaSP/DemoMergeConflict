@@ -1,3 +1,6 @@
+
 This is file1.txt in master
 demonstrate merge conflict
-
+This is file1.txt in new branch and commit
+my name is shivapriya
+i am from chennai
