@@ -1,2 +1,4 @@
-This is file1.txt
-This is in new branch
+This is file1.txt in new branch
+i am developer1
+demonstrate merge conflict
+
